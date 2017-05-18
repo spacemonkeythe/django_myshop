@@ -14,5 +14,4 @@ build/
 tests/report/
 .venv/
 *.sqlite3
-bookmarks/media/cache/
-bookmarks/media/users/
+myshop/media/
